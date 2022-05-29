@@ -1,0 +1,22 @@
+{
+	"Basic theory": "bug reports, documentation, types,methods",
+	"HTTP": [
+		"What is a client-server architecture",
+		"HTTP Methods of requests to the server",
+		"HTTP server response codes",
+		"Structures of HTTP requests and responses",
+	],
+	"API testing": "Postman",
+	"Dev Tools of web browsers": "Google Chrome, FireFox",
+	"VPN": "How it works, why you need it, how to use it, tool options",
+	"Mobile testing": [
+		"Feature iOS, Android, guidelines",
+		"Building iOS applications on XCode",
+		"Building Android applications on Android Studio",
+		"ADB"
+	],
+	"Linux": "Command line (terminal)",
+	"SQL": "Create, Delete, Drop, Insert Into, Select, From, Where, Join",
+	"Load testing": "Jmeter"
+}
+
